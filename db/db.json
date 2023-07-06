@@ -12,22 +12,29 @@
         {
           "id": 1,
           "name": "NEC001",
-          "productImage": "./Images/photo_2023-06-18_17-47-47.jpg",
+          "productImage": "./Images/photo_2023-07-04_22-19-10.jpg",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
           "name": "BRAC001",
-          "productImage": "./Images/photo_2023-06-18_17-47-47.jpg",
+          "productImage": "./Images/photo_2023-07-04_22-19-23.jpg",
           "price": 25,
           "category": "Necklace"
         },
         {
           "id": 3,
           "name": "EARC001",
-          "productImage": "./Images/photo_2023-06-18_17-47-47.jpg",
+          "productImage": "./Images/photo_2023-07-04_22-19-20.jpg",
           "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 4,
+          "name": "Nec004",
+          "productImage": "./Images/photo_2023-07-04_22-19-14.jpg",
+          "price": "760",
           "category": "Necklace"
         }
       ]
@@ -43,14 +50,14 @@
       "collection": [
         {
           "id": 1,
-          "name": "NEC001",
+          "name": "NEC005",
           "productImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Spice-jewellery-design-a.jpg?size=1200:675",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
-          "name": "BRAC001",
+          "name": "BRAC006",
           "productImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Spice-jewellery-design-a.jpg?size=1200:675",
           "price": 25,
           "category": "Necklace"
@@ -75,21 +82,21 @@
       "collection": [
         {
           "id": 1,
-          "name": "NEC001",
+          "name": "NEC009",
           "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
-          "name": "BRAC001",
+          "name": "BRAC010",
           "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
           "price": 25,
           "category": "Necklace"
         },
         {
           "id": 3,
-          "name": "EARC001",
+          "name": "EARC011",
           "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
           "price": 25,
           "category": "Necklace"
@@ -107,21 +114,21 @@
       "collection": [
         {
           "id": 1,
-          "name": "NEC001",
+          "name": "NEC022",
           "productImage": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
-          "name": "BRAC001",
+          "name": "BRAC101",
           "productImage": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
           "price": 25,
           "category": "Necklace"
         },
         {
           "id": 3,
-          "name": "EARC001",
+          "name": "EARC901",
           "productImage": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
           "price": 25,
           "category": "Necklace"
@@ -139,21 +146,21 @@
       "collection": [
         {
           "id": 1,
-          "name": "NEC001",
+          "name": "NEC801",
           "productImage": "https://shorturl.at/yAI58",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
-          "name": "BRAC001",
+          "name": "BRAC601",
           "productImage": "https://shorturl.at/yAI58",
           "price": 25,
           "category": "Necklace"
         },
         {
           "id": 3,
-          "name": "EARC001",
+          "name": "EARC901",
           "productImage": "https://shorturl.at/yAI58",
           "price": 25,
           "category": "Necklace"
@@ -171,21 +178,21 @@
       "collection": [
         {
           "id": 1,
-          "name": "NEC001",
+          "name": "NEC111",
           "productImage": "https://shorturl.at/sCHQ6",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
-          "name": "BRAC001",
+          "name": "BRAC1901",
           "productImage": "https://shorturl.at/sCHQ6",
           "price": 25,
           "category": "Necklace"
         },
         {
           "id": 3,
-          "name": "EARC001",
+          "name": "EARC0101",
           "productImage": "https://shorturl.at/sCHQ6",
           "price": 25,
           "category": "Necklace"
@@ -203,73 +210,26 @@
       "collection": [
         {
           "id": 1,
-          "name": "NEC001",
+          "name": "NEC0091",
           "productImage": "https://shorturl.at/klnAP",
           "price": 23,
           "category": "Necklace"
         },
         {
           "id": 2,
-          "name": "BRAC001",
+          "name": "BRAC0701",
           "productImage": "https://shorturl.at/klnAP",
           "price": 25,
           "category": "Necklace"
         },
         {
           "id": 3,
-          "name": "EARC001",
+          "name": "EARC8001",
           "productImage": "https://shorturl.at/klnAP",
           "price": 25,
           "category": "Necklace"
         }
       ]
-    },
-    {
-      "name": "eeeeeeeeeee",
-      "code": "sds",
-      "mobile": "qwerwr",
-      "poster": "uiydas",
-      "Collection": "sqewe",
-      "id": 8
-    },
-    {
-      "name": "eeeeeeeeeee",
-      "code": "qwrer",
-      "mobile": "qwerwr",
-      "poster": "https://images.unsplash.com/photo-1617191880362-aac615de3c26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29sZCUyMGpld2VsbGVyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "Collection": "https://images.unsplash.com/photo-1617191880362-aac615de3c26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29sZCUyMGpld2VsbGVyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "id": 9
-    },
-    {
-      "name": "eytrewr",
-      "id": 10
-    },
-    {
-      "name": "",
-      "id": 11
-    },
-    {
-      "name": "eeeeeeeeeee",
-      "id": 12
-    },
-    {
-      "name": "eeeeeeeeeee",
-      "code": "qwrer",
-      "mobile": "qwerwr",
-      "poster": "uiydas",
-      "Collection": "sqewe",
-      "id": 13
-    },
-    {
-      "name": "eeeeeeeeeee",
-      "id": 14
-    },
-    {
-      "name": "ashdghsadg",
-      "code": "asdjkhs",
-      "mobile": "sds",
-      "poster": "duwye",
-      "id": 15
     }
   ]
 }
