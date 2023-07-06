@@ -1,444 +1,275 @@
 {
-  "example": [
+  "Jewellers": [
     {
       "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Mirio Jewellers",
+      "code": "MIR",
+      "email": "MirioJewellers@gmail.com",
+      "location": "Nairobi, Kenya",
+      "mobile": "+254 700562291",
+      "poster": "./Images/photo_2023-06-18_17-47-47.jpg",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "./Images/photo_2023-06-18_17-47-47.jpg",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "./Images/photo_2023-06-18_17-47-47.jpg",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "./Images/photo_2023-06-18_17-47-47.jpg",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
       "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Golden Elegance",
+      "code": "GEL",
+      "email": "sales@goldenelegance.com",
+      "location": "London, United Kingdom",
+      "mobile": "+44 9876543210",
+      "poster": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Spice-jewellery-design-a.jpg?size=1200:675",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Spice-jewellery-design-a.jpg?size=1200:675",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Spice-jewellery-design-a.jpg?size=1200:675",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Spice-jewellery-design-a.jpg?size=1200:675",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
       "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Gemstone Emporium",
+      "code": "GEM",
+      "email": "info@gemstoneemporium.com",
+      "location": "New York, USA",
+      "mobile": "+1 1234567890",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZh_cJ4vDy3Vos0HjkDy3TPc29VP6KgB9sw&usqp=CAU",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
       "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Dazzling Diamonds",
+      "code": "DDS",
+      "email": "info@dazzlingdiamonds.com",
+      "location": "Paris, France",
+      "mobile": "+33 1122334455",
+      "poster": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "https://img.freepik.com/free-photo/precious-gems-luxury-transparent-stones-abundance-generated-by-ai_188544-36262.jpg?w=2000",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
       "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Silver Haven",
+      "code": "SHJ",
+      "email": "contact@silverhaven.com",
+      "location": "Sydney, Australia",
+      "mobile": "+61 9876543210",
+      "poster": "https://shorturl.at/yAI58",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "https://shorturl.at/yAI58",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "https://shorturl.at/yAI58",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "https://shorturl.at/yAI58",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
       "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Royal Gems",
+      "code": "RGM",
+      "email": "info@royalgems.com",
+      "location": "Dubai, United Arab Emirates",
+      "mobile": "+971 501234567",
+      "poster": "https://shorturl.at/sCHQ6",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "https://shorturl.at/sCHQ6",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "https://shorturl.at/sCHQ6",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "https://shorturl.at/sCHQ6",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
       "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "Opulent Ornaments",
+      "code": "OOP",
+      "email": "sales@opulentornaments.com",
+      "location": "Pretoria, South Africa",
+      "mobile": "+971 501234567",
+      "poster": "https://shorturl.at/klnAP",
+      "collection": [
+        {
+          "id": 1,
+          "name": "NEC001",
+          "productImage": "https://shorturl.at/klnAP",
+          "price": 23,
+          "category": "Necklace"
+        },
+        {
+          "id": 2,
+          "name": "BRAC001",
+          "productImage": "https://shorturl.at/klnAP",
+          "price": 25,
+          "category": "Necklace"
+        },
+        {
+          "id": 3,
+          "name": "EARC001",
+          "productImage": "https://shorturl.at/klnAP",
+          "price": 25,
+          "category": "Necklace"
+        }
+      ]
     },
     {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "eeeeeeeeeee",
+      "code": "sds",
+      "mobile": "qwerwr",
+      "poster": "uiydas",
+      "Collection": "sqewe",
+      "id": 8
     },
     {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "eeeeeeeeeee",
+      "code": "qwrer",
+      "mobile": "qwerwr",
+      "poster": "https://images.unsplash.com/photo-1617191880362-aac615de3c26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29sZCUyMGpld2VsbGVyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "Collection": "https://images.unsplash.com/photo-1617191880362-aac615de3c26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z29sZCUyMGpld2VsbGVyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 9
     },
     {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "eytrewr",
+      "id": 10
     },
     {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "",
+      "id": 11
     },
     {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "eeeeeeeeeee",
+      "id": 12
     },
     {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "eeeeeeeeeee",
+      "code": "qwrer",
+      "mobile": "qwerwr",
+      "poster": "uiydas",
+      "Collection": "sqewe",
+      "id": 13
     },
     {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "eeeeeeeeeee",
+      "id": 14
     },
     {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "name": "ashdghsadg",
+      "code": "asdjkhs",
+      "mobile": "sds",
+      "poster": "duwye",
+      "id": 15
     }
   ]
 }
